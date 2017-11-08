@@ -85,7 +85,7 @@ header nav .selected, header nav a:hover {
   height: 100%;
   background-color: rgba(0, 0, 0, 0.2);
 }
-
+<!-- ceshi--->
 .main-content .mask.info {
   background-color: rgba(170, 52, 51, 0.2);
 }
